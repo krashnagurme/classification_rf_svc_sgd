@@ -1,6 +1,6 @@
-# Classification - RandomForestClassifier, SVC, Logistic etc 
+# Classification - RFC, SVC, SGDC.
 
-<h><b> A. Notebook - NKI Breast Cancer Study Classification</b></h>
+<h1><b> A. Notebook - NKI Breast Cancer Study Classification</b></h1>
 * More Details on datset and data used - https://data.world/deviramanan2016/nki-breast-cancer-data
 * This notebook contains various classification models built on given NKI Breast Cancer data.
   > Built Models-
