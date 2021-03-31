@@ -4,7 +4,8 @@
 
  More Details on datset and data used - https://data.world/deviramanan2016/nki-breast-cancer-data
 * This notebook contains various classification models built on given NKI Breast Cancer data.
-  <h> * Built Models- </h>
+  
+  > Built Models-
     1. RANDOM FOREST CLASSIFIER
     2. SUPPORT VECTOR CLASSIFIER
     3. STOCHASTIC GRADIENT DESCENT CLASSIFIER
